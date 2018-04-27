@@ -83,7 +83,45 @@ Library ini berfungsi untuk memberikan tema pada tampilan aplikasi yang dibuat d
 
 Berikut ini adalah tampilan hasil dari projek Email Network Analysis using R :
 
-5.1	Preview		
+5.1	Preview	
+![1](https://user-images.githubusercontent.com/35399559/39339337-6fb676d8-49f2-11e8-98c1-a3fa7ad2a3f6.jpg)
+
+5.2	Connection	
+![2](https://user-images.githubusercontent.com/35399559/39339349-80ddd64a-49f2-11e8-9a1b-9e624d29af8f.jpg)
+
+5.3	Sent Table
+![3](https://user-images.githubusercontent.com/35399559/39339359-8d663dee-49f2-11e8-9c4f-d2f251a338bd.jpg)
+
+5.4	Received Table
+![4](https://user-images.githubusercontent.com/35399559/39339404-d4916360-49f2-11e8-9b98-222ba3cbb88c.jpg)
+
+5.5	2-hop Neighbors
+	5.5.1   From Top Senders
+![5-2](https://user-images.githubusercontent.com/35399559/39339405-d4d25618-49f2-11e8-828b-314aad30982c.jpg)
+
+	5.5.2   From Top Receivers
+![5-3](https://user-images.githubusercontent.com/35399559/39339406-d510871c-49f2-11e8-9e99-745ba4af2c2f.jpg)
+
+5.6	Degree Centrality
+	5.6.1   Per Person
+![6-1](https://user-images.githubusercontent.com/35399559/39339407-d54abcb6-49f2-11e8-9da4-9f494bd029db.jpg)
+
+	5.6.2   2-hop Graph
+![6-2](https://user-images.githubusercontent.com/35399559/39339408-d58afc54-49f2-11e8-9ad4-0a7b53de02f7.jpg)
+
+5.7	Betweenness Centrality
+	5.7.1   Per Person
+![7-1](https://user-images.githubusercontent.com/35399559/39339410-d6149126-49f2-11e8-9b09-e02236ae3357.jpg)
+
+	5.7.2   2-hop Graph
+![7-2](https://user-images.githubusercontent.com/35399559/39339411-d652b7a8-49f2-11e8-9d89-6fc05071987e.jpg)
+
+5.8	Department	
+![8](https://user-images.githubusercontent.com/35399559/39339412-d6a49384-49f2-11e8-8415-4db2e7bb0a4d.jpg)
+
+5.9	Discussion
+![9](https://user-images.githubusercontent.com/35399559/39339403-d440c450-49f2-11e8-9f44-db09b77b7e61.jpg)
+
 
 
 # Daftar Pustaka
