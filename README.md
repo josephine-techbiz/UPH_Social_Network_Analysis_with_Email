@@ -65,14 +65,14 @@ Dalam projek ini, pembuatan grafik menggunakan function ForceNetwork dengan mele
   
 	Degree centrality menampilkan id yang memiliki degree atau koneksi yang terbanyak dari setiap id. Degree centrality menampilkan hal tersebut melalui dua tampilan yang berbeda, per person untuk tampilan berupa tabel, dan 2-hop graph untuk tampilan berupa grafik network. Rumus untuk mencari degree centrality:
 	
-      ![deg](https://user-images.githubusercontent.com/35399559/39345112-d895a700-4a10-11e8-960e-a6aeb2462593.PNG)
+     ![deg](https://user-images.githubusercontent.com/35399559/39345346-2eb120a0-4a12-11e8-95b9-d0298d9dcdad.jpg)
 
 
 	3.4.7	Betweenness Centrality
   
 	Betweenness centrality menampilkan jumlah jalur terpendek yang melewati suatu vertex. Betweenness centrality menampilkan hal tersebut melalui dua tampilan yang berbeda, per person untuk tampilan berupa tabel, dan 2-hop graph untuk tampilan berupa grafik network. Rumus untuk mencari betweenness centrality :
 	
-	![bet](https://user-images.githubusercontent.com/35399559/39345111-d845410c-4a10-11e8-8cf0-4ca5c8cd8411.PNG)
+	![bet](https://user-images.githubusercontent.com/35399559/39345345-2e799c8e-4a12-11e8-83db-694e07777069.jpg)
 
 	3.4.8	Department
   
