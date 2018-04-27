@@ -2,8 +2,11 @@
 
 # Disusun Oleh: 
 Angela Ivany			00000020165
+
 Josephine			00000022653
+
 Nathania			00000012960
+
 Shella Lolitha			00000022062
 
 
