@@ -1,7 +1,7 @@
 # UPH_OR_UAS_2018
 Social Network Analysis (email)
 
-#I. Latar Belakang
+# I. Latar Belakang
 
  Analisis jaringan sosial atau social network analysis (SNA) adalah proses analisis kuantitatif dan kualitatif dari jaringan sosial. Setiap proses atau sistem sosial yang dapat dikonseptualisasikan sebagai satu set unit dan satu set garis yang menghubungkan pasangan unit dapat dipelajari sebagai jejaring sosial. Contoh struktur sosial yang telah dipelajari sebagai jaringan adalah hubungan perdagangan antar negara dan hyperlink antar situs web.
 Perkembangan jaringan sosial semakin pesat. Komunitas atau kelompok sosial merupakan wadah yang nyaman untuk saling bertukar informasi antar anggota. Dalam dunia nyata, mengidentifikasi pertukaran informasi mengenai topik yang saling tidak berhubungan merupakan hal yang realtif sulit. Untuk itu, salah satu tujuan dari SNA adalah untuk mendeteksi dan mengidentifikasi informasi, termasuk hubungan interaksi antar user, yang direpresentasikan sebagai graf. Representasi dengan menggunakan graf merupakan tipe representasi yang paling fundamental.
@@ -12,7 +12,7 @@ R adalah suatu kesatuan software yang terintegrasi dengan beberapa fasilitas unt
   Sesuai dengan topik mengenai social network analysis (SNA), projek yang dibuat berdasarkan referensi dari github adalah Email Network Analysis using R1. Projek ini mengolah data yang didapatkan dari lembaga penelitian besar Eropa. Data tersebut merupakan informasi anonim tentang semua e-mail masuk dan keluar antara anggota lembaga penelitian. E-mail hanya mewakili komunikasi antara anggota lembaga (inti), tidak berisi pesan masuk atau pesan keluar ke seluruh dunia.
 SNA yang akan ditampilkan dalam projek ini meliputi : Preview, Connection, Sent Table, Recieved Table, 2-hop Neighbors, Degree Centrality, Betweenness Centrality, Department, dan Discussion. Representasi data dalam projek ini dapat ditampilkan dengan beberapa pengaturan, seperti: Number of Connections, Font Size, Opacity, Number of Top Senders, Number of Receivers, The nth Person with Highest Degree Centrality, The nth Person with Highest Betweenness Centrality, The nth Person with Highest Indegree Centrality.
 
-#III. Metode
+# III. Metode
 
 3.1	Data
 
@@ -60,7 +60,7 @@ Projek ini menggunakan data yang diperoleh dari website Stanford Network Analysi
   
 	Discussion menampilkan teks berupa kesimpulan mengenai data yang diolah.
 
-#IV. Library
+# IV. Library
 
 4.1	shiny
 
@@ -79,8 +79,15 @@ igraph  dapat menangani grafik besar dengan sangat baik dan menyediakan fungsi u
 Library ini berfungsi untuk memberikan tema pada tampilan aplikasi yang dibuat dengan shiny. Banyak macam tema pilihan yang dapat dengan mudah mengubah tampilan keseluruhan aplikasi Shiny menggunakan package shinythemes ini seperti cerulean, cosmo, cyborg, dark, dan lainnya.
 
 
-#V. Hasil dan Kesimpulan
+# V. Hasil dan Kesimpulan
 
 Berikut ini adalah tampilan hasil dari projek Email Network Analysis using R :
 
 5.1	Preview		
+
+
+# Daftar Pustaka
+
+[1]  thaoduong1993. 2018. “email-network-analysis”. https://github.com/thaoduong1993/email-network-analysis-using-R (diakses 26 April 2018)
+
+[2] Stanford University. 2017. "email-Eu-core Network". https://snap.stanford.edu/data/email-Eu-core.html (diakses 26 April 2018)
