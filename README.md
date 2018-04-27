@@ -1,5 +1,4 @@
-# UPH_OR_UAS_2018
-Social Network Analysis (email)
+# UPH_Social_Network_Analysis_with_Email
 
 # I. Latar Belakang
 
