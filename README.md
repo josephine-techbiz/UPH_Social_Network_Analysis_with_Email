@@ -32,6 +32,7 @@ Projek ini menggunakan data yang diperoleh dari website Stanford Network Analysi
 	Dalam menjalankan program ini, langkah pertama yang harus dilakukan adalah mengunduh data email melalui website SNAP, terdapat dua file yang dapat diunduh yaitu file yang memuat data email antar karyawan dan file yang memuat data departemen karyawan. Langkah selanjutnya yaitu mengunggah file-file tersebut ke dalam panel yang telah disediakan. Kemudian aplikasi dapat dijalankan untuk mengolah data yang ada di dalam file-file tersebut.
 
 3.3	Function
+
 	3.3.1	ForceNetwork
 Dalam projek ini, pembuatan grafik menggunakan function ForceNetwork dengan melempar parameter Links, Nodes, NodeID, Nodesize, Group, fontSize, fontFamily, opacity, height, width, zoom, legend, bounded, dan opacityNoHover.  Function ini juga digunakan untuk mengendalikan penampilan dari jaringan dalam grafik, terutama untuk membuat jaringan yang lebih kompleks.
 
@@ -56,15 +57,22 @@ Dalam projek ini, pembuatan grafik menggunakan function ForceNetwork dengan mele
 
 	3.4.5	2-hop Neighbors
   
-	2-hop neighbors menampilkan protokol dan algorimta untuk routing, pengelompokan, dan pembagian data terdistribusi. 2-hop neighbors menampilkan hal tersebut melalui dua tampilan yaitu from top senders dan from top receivers.
+	2-hop neighbors menampilkan protokol dan algorimta untuk routing, pengelompokan, dan pembagian data terdistribusi. 2-hop neighbors menampilkan hal tersebut melalui dua tampilan yaitu from top senders dan from top receivers. 
+	
+	Diberikan grafik G = (V, E), di mana | V | = n. Apa itu algoritma cepat untuk menghasilkan kumpulan semua daftar lingkungan 2-hop dari semua node di V.
 
 	3.4.6	Degree Centrality
   
-	Degree centrality menampilkan id yang memiliki degree atau koneksi yang terbanyak dari setiap id. Degree centrality menampilkan hal tersebut melalui dua tampilan yang berbeda, per person untuk tampilan berupa tabel, dan 2-hop graph untuk tampilan berupa grafik network.
+	Degree centrality menampilkan id yang memiliki degree atau koneksi yang terbanyak dari setiap id. Degree centrality menampilkan hal tersebut melalui dua tampilan yang berbeda, per person untuk tampilan berupa tabel, dan 2-hop graph untuk tampilan berupa grafik network. Rumus untuk mencari degree centrality:
+	
+      ![deg](https://user-images.githubusercontent.com/35399559/39345112-d895a700-4a10-11e8-960e-a6aeb2462593.PNG)
+
 
 	3.4.7	Betweenness Centrality
   
-	Betweenness centrality menampilkan jumlah jalur terpendek yang melewati suatu vertex. Betweenness centrality menampilkan hal tersebut melalui dua tampilan yang berbeda, per person untuk tampilan berupa tabel, dan 2-hop graph untuk tampilan berupa grafik network.
+	Betweenness centrality menampilkan jumlah jalur terpendek yang melewati suatu vertex. Betweenness centrality menampilkan hal tersebut melalui dua tampilan yang berbeda, per person untuk tampilan berupa tabel, dan 2-hop graph untuk tampilan berupa grafik network. Rumus untuk mencari betweenness centrality :
+	
+	![bet](https://user-images.githubusercontent.com/35399559/39345111-d845410c-4a10-11e8-8cf0-4ca5c8cd8411.PNG)
 
 	3.4.8	Department
   
