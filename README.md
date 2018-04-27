@@ -118,6 +118,7 @@ Berikut ini adalah tampilan hasil dari projek Email Network Analysis using R :
 ![4](https://user-images.githubusercontent.com/35399559/39339404-d4916360-49f2-11e8-9b98-222ba3cbb88c.jpg)
 
 5.5	2-hop Neighbors
+	
 	5.5.1   From Top Senders
 ![5-2](https://user-images.githubusercontent.com/35399559/39339405-d4d25618-49f2-11e8-828b-314aad30982c.jpg)
 
@@ -125,6 +126,7 @@ Berikut ini adalah tampilan hasil dari projek Email Network Analysis using R :
 ![5-3](https://user-images.githubusercontent.com/35399559/39339406-d510871c-49f2-11e8-9e99-745ba4af2c2f.jpg)
 
 5.6	Degree Centrality
+	
 	5.6.1   Per Person
 ![6-1](https://user-images.githubusercontent.com/35399559/39339407-d54abcb6-49f2-11e8-9da4-9f494bd029db.jpg)
 
@@ -132,6 +134,7 @@ Berikut ini adalah tampilan hasil dari projek Email Network Analysis using R :
 ![6-2](https://user-images.githubusercontent.com/35399559/39339408-d58afc54-49f2-11e8-9ad4-0a7b53de02f7.jpg)
 
 5.7	Betweenness Centrality
+	
 	5.7.1   Per Person
 ![7-1](https://user-images.githubusercontent.com/35399559/39339410-d6149126-49f2-11e8-9b09-e02236ae3357.jpg)
 
