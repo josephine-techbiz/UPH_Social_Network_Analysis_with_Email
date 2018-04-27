@@ -31,41 +31,46 @@ Projek ini menggunakan data yang diperoleh dari website Stanford Network Analysi
 
 	Dalam menjalankan program ini, langkah pertama yang harus dilakukan adalah mengunduh data email melalui website SNAP, terdapat dua file yang dapat diunduh yaitu file yang memuat data email antar karyawan dan file yang memuat data departemen karyawan. Langkah selanjutnya yaitu mengunggah file-file tersebut ke dalam panel yang telah disediakan. Kemudian aplikasi dapat dijalankan untuk mengolah data yang ada di dalam file-file tersebut.
 
-3.3	Output
+3.3	Function
+	3.3.1	ForceNetwork
+Dalam projek ini, pembuatan grafik menggunakan function ForceNetwork dengan melempar parameter Links, Nodes, NodeID, Nodesize, Group, fontSize, fontFamily, opacity, height, width, zoom, legend, bounded, dan opacityNoHover.  Function ini juga digunakan untuk mengendalikan penampilan dari jaringan dalam grafik, terutama untuk membuat jaringan yang lebih kompleks.
 
-	3.3.1	Preview
+
+3.4	Output
+
+	3.4.1	Preview
   
 	Output yang pertama dikeluarkan adalah preview dari data yang diunggah berupa dua tabel yang mewakili setiap data.
 
-	3.3.2	Connection
+	3.4.2	Connection
   
 	Connection menampilkan output berupa grafik network dengan hubungan koneksi antar vertex sejumlah angka yang diinput user.
 
-	3.3.3	Sent Table
+	3.4.3	Sent Table
   
 			Sent table menampilkan banyaknya email yang dikirim oleh setiap id.
 
-	3.3.4	Received Table
+	3.4.4	Received Table
   
 	Received table menampilkan banyaknya email yang diterima oleh setiap id.
 
-	3.3.5	2-hop Neighbors
+	3.4.5	2-hop Neighbors
   
 	2-hop neighbors menampilkan protokol dan algorimta untuk routing, pengelompokan, dan pembagian data terdistribusi. 2-hop neighbors menampilkan hal tersebut melalui dua tampilan yaitu from top senders dan from top receivers.
 
-	3.3.6	Degree Centrality
+	3.4.6	Degree Centrality
   
 	Degree centrality menampilkan id yang memiliki degree atau koneksi yang terbanyak dari setiap id. Degree centrality menampilkan hal tersebut melalui dua tampilan yang berbeda, per person untuk tampilan berupa tabel, dan 2-hop graph untuk tampilan berupa grafik network.
 
-	3.3.7	Betweenness Centrality
+	3.4.7	Betweenness Centrality
   
 	Betweenness centrality menampilkan jumlah jalur terpendek yang melewati suatu vertex. Betweenness centrality menampilkan hal tersebut melalui dua tampilan yang berbeda, per person untuk tampilan berupa tabel, dan 2-hop graph untuk tampilan berupa grafik network.
 
-	3.3.8	Department
+	3.4.8	Department
   
 	Department menampilkan tabel berupa banyaknya email yang dikirim antar karyawan berdasarkan departemennya.
 
-	3.3.9	Discussion
+	3.4.9	Discussion
   
 	Discussion menampilkan teks berupa kesimpulan mengenai data yang diolah.
 
@@ -77,7 +82,7 @@ Shiny adalah library yang menyediakan kerangka web yang elegan dan kuat untuk me
 
 4.2	networkD3
 
-NetworkD3 berfungsi untuk menyediakan fungsi yang disebut igraph_to_networkD3, yang menggunakan objek igraph untuk mengubahnya menjadi format yang digunakan networkD3 untuk membuat representasi jaringan. Di dalam projek ini, networkD3 berfungsi untuk membantu dalam proses pembuatan grafik.
+NetworkD3 berfungsi untuk menyediakan fungsi yang disebut igraph_to_networkD3, yang menggunakan objek igraph untuk mengubahnya menjadi format yang digunakan networkD3 untuk membuat representasi jaringan. Di dalam projek ini, networkD3 berfungsi untuk membantu dalam proses pembuatan grafik. 
 
 4.3	igraph
 
