@@ -1,5 +1,12 @@
 # UPH_Social_Network_Analysis_with_Email
 
+# Disusun Oleh: 
+Angela Ivany			00000020165
+Josephine			00000022653
+Nathania			00000012960
+Shella Lolitha			00000022062
+
+
 # I. Latar Belakang
 
  Analisis jaringan sosial atau social network analysis (SNA) adalah proses analisis kuantitatif dan kualitatif dari jaringan sosial. Setiap proses atau sistem sosial yang dapat dikonseptualisasikan sebagai satu set unit dan satu set garis yang menghubungkan pasangan unit dapat dipelajari sebagai jejaring sosial. Contoh struktur sosial yang telah dipelajari sebagai jaringan adalah hubungan perdagangan antar negara dan hyperlink antar situs web.
