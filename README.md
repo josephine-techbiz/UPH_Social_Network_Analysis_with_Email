@@ -18,14 +18,14 @@ R adalah suatu kesatuan software yang terintegrasi dengan beberapa fasilitas unt
 
 # II. Deskripsi Projek
 
-  Sesuai dengan topik mengenai social network analysis (SNA), projek yang dibuat berdasarkan referensi dari github adalah Email Network Analysis using R1. Projek ini mengolah data yang didapatkan dari lembaga penelitian besar Eropa. Data tersebut merupakan informasi anonim tentang semua e-mail masuk dan keluar antara anggota lembaga penelitian. E-mail hanya mewakili komunikasi antara anggota lembaga (inti), tidak berisi pesan masuk atau pesan keluar ke seluruh dunia.
+  Sesuai dengan topik mengenai social network analysis (SNA), projek yang dibuat berdasarkan referensi dari github adalah Email Network Analysis using R[1]. Projek ini mengolah data yang didapatkan dari lembaga penelitian besar Eropa. Data tersebut merupakan informasi anonim tentang semua e-mail masuk dan keluar antara anggota lembaga penelitian. E-mail hanya mewakili komunikasi antara anggota lembaga (inti), tidak berisi pesan masuk atau pesan keluar ke seluruh dunia.
 SNA yang akan ditampilkan dalam projek ini meliputi : Preview, Connection, Sent Table, Recieved Table, 2-hop Neighbors, Degree Centrality, Betweenness Centrality, Department, dan Discussion. Representasi data dalam projek ini dapat ditampilkan dengan beberapa pengaturan, seperti: Number of Connections, Font Size, Opacity, Number of Top Senders, Number of Receivers, The nth Person with Highest Degree Centrality, The nth Person with Highest Betweenness Centrality, The nth Person with Highest Indegree Centrality.
 
 # III. Metode
 
 3.1	Data
 
-Projek ini menggunakan data yang diperoleh dari website Stanford Network Analysis Project (SNAP).  Data yang digunakan adalah data Email-Eu-Core Network2.
+Projek ini menggunakan data yang diperoleh dari website Stanford Network Analysis Project (SNAP).  Data yang digunakan adalah data Email-Eu-Core Network[2].
 
 3.2	Langkah Penggunaan
 
